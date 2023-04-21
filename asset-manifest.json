@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/brasilong/static/css/main.8c20f072.css",
-    "main.js": "/brasilong/static/js/main.c3691815.js",
+    "main.css": "/brasilong/static/css/main.6a2d22f2.css",
+    "main.js": "/brasilong/static/js/main.9ab76fef.js",
     "index.html": "/brasilong/index.html",
-    "main.8c20f072.css.map": "/brasilong/static/css/main.8c20f072.css.map",
-    "main.c3691815.js.map": "/brasilong/static/js/main.c3691815.js.map"
+    "main.6a2d22f2.css.map": "/brasilong/static/css/main.6a2d22f2.css.map",
+    "main.9ab76fef.js.map": "/brasilong/static/js/main.9ab76fef.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c20f072.css",
-    "static/js/main.c3691815.js"
+    "static/css/main.6a2d22f2.css",
+    "static/js/main.9ab76fef.js"
   ]
 }
