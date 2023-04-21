@@ -1,7 +1,7 @@
 function Sobre () {
     return (
         <main>
-        <section>
+        <section class="2xl:h-screen">
             <article class="p-5 xl:px-20 text-justify text-blue-800 text-lg m-3">
                 <h1 class="text-4xl text-center mb-4">Um pouco da nossa historia...</h1>  
 
