@@ -4,7 +4,7 @@ import Article from "../components/Article";
 function Social () {
 
     return (
-        <section class="xl:h-screen xl:mb-6">
+        <section class="xl:mb-6">
             <h1 class="text-4xl mt-3 text-center text-blue-800">Ações Sociais</h1>
             <h2 class="text-sm text-center text-blue-800 
             p-2">Escolha qual programa social que mais combina com você, saiba mais sobre ele e como você poderá está contribuindo.</h2>
